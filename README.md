@@ -1,2 +1,58 @@
-# 30-days-python-journey
-My 30-day journey of learning Python with daily coding, notes, and projects.
+# 🚀 30 Days of Python Journey
+
+Hey! I'm Aditya Mishra👋
+
+I'm currently learning Python by following the amazing https://github.com/Asabeneh/30-Days-Of-Python repo
+
+This repository is where I document my **entire journey** day by day as I learn, practice, and build.
+---
+
+## 💡 Why I'm doing this
+
+I don’t just want to *learn* Python…
+I want to actually **get good at it**.
+
+So instead of just watching tutorials, I’m:
+
+* Writing code every day 
+* Making mistakes and fixing them 
+* Building small projects
+* and also journaling my thoughts and feelings
+* why ? to learn python and improve as a person too 
+
+---
+
+## 📅 Progress
+
+* Day 0 ✅ (Setup + First Python Program)
+* Day 1 :) (Coming next...)
+
+---
+
+## 📂 Structure of this repo
+
+Each day contains:
+
+* `practice.py` → My code
+* `notes.md` → What I learned + mistakes
+
+---
+
+## 🎯 Goal
+
+By the end of this challenge, I want to:
+
+* Be confident in Python basics
+* Build real projects
+* Strengthen my problem-solving skills
+
+---
+I'm not treating this solely as a challenge, or just another skill to learn. . . .
+It’s me showing up every day and improving step by step. CONSISTENCY for the win. 
+
+---
+
+## 📌 Stay tuned
+
+I’ll be updating this repo daily —
+let’s see how far I can go 🚀
