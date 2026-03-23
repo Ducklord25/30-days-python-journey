@@ -1,6 +1,6 @@
-# 🚀 30 Days of Python Journey
+# 30 Days of Python Journey
 
-Hey! I'm Aditya Mishra👋
+Hy, I'm Aditya Mishra
 
 I'm currently learning Python by following the amazing https://github.com/Asabeneh/30-Days-Of-Python repo
 
@@ -8,7 +8,7 @@ This repository is where I document my **entire journey** day by day as I learn,
 
 ---
 
-## 💡 Why I'm doing this
+## Why I'm doing this
 
 I don’t just want to *learn* Python…
 I want to actually **get good at it**.
@@ -23,14 +23,14 @@ So instead of just watching tutorials, I’m:
 
 ---
 
-## 📅 Progress
+## Progress
 
 * Day 0 ✅ (Setup + First Python Program)
 * Day 1 :) (Coming next...)
 
 ---
 
-## 📂 Structure of this repo
+## Structure of this repo
 
 Each day contains:
 
@@ -39,7 +39,7 @@ Each day contains:
 
 ---
 
-## 🎯 Goal
+## Goal
 
 By the end of this challenge, I want to:
 
@@ -53,7 +53,7 @@ It’s me showing up every day and improving step by step. CONSISTENCY for the w
 
 ---
 
-## 📌 Stay tuned
+## Stay tuned
 
 I’ll be updating this repo daily —
 let’s see how far I can go 🚀
