@@ -25,8 +25,9 @@ So instead of just watching tutorials, I’m:
 
 ## Progress
 
-* Day 0 ✅ (Setup + First Python Program)
-* Day 1 :) (Coming next...)
+* Day 0 (Setup + First Python Program)
+* Day 1 - Data Types + Operators
+* Day 2 - 
 
 ---
 
@@ -34,8 +35,9 @@ So instead of just watching tutorials, I’m:
 
 Each day contains:
 
-* `practice.py` → My code
-* `notes.md` → What I learned + mistakes
+* `practice.py` &#8595; My code
+* `notes.md` &#8595; What I learned + mistakes
+* `exercises.py` &#8595; Abaseneh's repo challenges
 
 ---
 
