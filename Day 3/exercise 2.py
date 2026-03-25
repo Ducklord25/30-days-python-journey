@@ -26,5 +26,28 @@ print(python_value)
 python_string = str(python_value)
 print(type(python_string))
 
-print(5 % 2 is 0) # checks whether a number is even or not 
+print(5 % 2 == 0) # checks whether a number is even or not 
 print(7//3  == int(2.7))
+
+print(type('10') == type(10))
+
+# hour rates question
+
+hours = int(input("Enter the number of hours : "))
+hour_rate = float(input("Enter the rate per hour : "))
+total_rate = hours * hour_rate
+print(f"Your weekly earning is : {total_rate}")
+
+# number of seconds lived
+
+seconds_in_year = 60 * 60 * 24 * 365
+years_lived = int(input("Enter the number of years : "))
+print(f"you have lived for {years_lived * seconds_in_year} seconds !!")
+
+# script for a table
+
+print("1 1 1 1 1")
+print("2 1 2 4 8")
+print("3 1 3 9 27")
+print("4 1 4 16 64")
+print("5 1 5 25 125")

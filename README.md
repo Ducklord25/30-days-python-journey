@@ -28,7 +28,7 @@ So instead of just watching tutorials, I’m:
 * Day 0 (Setup + First Python Program)
 * Day 1 - Data Types + Operators
 * Day 2 - Type Casting + in-built functions + variables
-* Day 3 - 
+* Day 3 - Operator Types + problems + condition checking
 
 ---
 
@@ -59,4 +59,4 @@ It’s me showing up every day and improving step by step. CONSISTENCY for the w
 ## Stay tuned
 
 I’ll be updating this repo daily —
-let’s see how far I can go 🚀
+let’s see how far I can go hehe :)
