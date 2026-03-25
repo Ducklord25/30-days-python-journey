@@ -27,7 +27,8 @@ So instead of just watching tutorials, I’m:
 
 * Day 0 (Setup + First Python Program)
 * Day 1 - Data Types + Operators
-* Day 2 - 
+* Day 2 - Type Casting + in-built functions + variables
+* Day 3 - 
 
 ---
 
