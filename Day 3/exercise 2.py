@@ -14,4 +14,17 @@ b = 'dragon'
 print(len(a), len(b))
 print(a > b, a < b, a>=b, a<=b)
 
-print('on' in a and b)
+print('on' in a and 'on' in b)
+
+random = "i hope this course is not full of jargon"
+print("jargon is present in the sentence ? : ", 'jargon' in random)
+
+print('on' not in a and 'on' not in b)
+
+python_value = float(len('python'))
+print(python_value)
+python_string = str(python_value)
+print(type(python_string))
+
+print(5 % 2 is 0) # checks whether a number is even or not 
+print(7//3  == int(2.7))
