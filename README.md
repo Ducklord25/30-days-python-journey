@@ -29,6 +29,7 @@ So instead of just watching tutorials, I’m:
 * Day 1 - Data Types + Operators
 * Day 2 - Type Casting + in-built functions + variables
 * Day 3 - Operator Types + problems + condition checking
+* Day 4 - Strings
 
 ---
 
