@@ -14,4 +14,12 @@ i slept really late yesterday and woke up late today, so i feel a little letharg
     - \n = new line
     - \\ = to write a backslash
 
-*
+### String formatting:
+- old style (%):
+    - %s - strings
+    - %d - int
+    - %f - float
+    - %.2f - 2 digits after decimal
+- new style (use {} in string followed by .format(x,y,z...))
+- string interpolation ( use f"string {}" )
+    
