@@ -98,3 +98,4 @@ print(a.replace('aditya','eshika')) # replaces first substring with second
 print(a.split()) 
 print(a.title())
 print(a.swapcase())
+print(a.isidentifier()) # checks if string is a valid variable name
